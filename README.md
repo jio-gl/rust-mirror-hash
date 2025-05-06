@@ -77,7 +77,7 @@ Here's a ASCI diagram in Markdown for the gate grid specification:
 
 ## References
 
-Original Python implementation: [mirror-hash](https://github.com/jio-gl/mirror-hash)
+Original Python implementation: [mirror-hash](https://github.com/jio-gl/python-mirror-hash)
 
 ## License
 
